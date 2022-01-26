@@ -1,1 +1,1 @@
-This is the telegram bot for making notes and saving documents.
+Telegram bot for notes and docs.
